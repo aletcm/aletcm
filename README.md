@@ -1,3 +1,5 @@
+<img alt="intro" src="https://github.com/aletcm/aletcm/assets/74436963/5b133fb0-174c-4373-821c-0253468887a6" style="height: 200px;">
+
 ## Olá! Este é o perfil de Alessandro Taddei! 👋
 
 ### Habilidades: 📚
