@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b897ff&fontColor=dddddd&height=175&section=header&text=Hi!%20This%20is%20Alessandro%20Taddei’s%20profile.&fontSize=35&fontAlignY=30">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b897ff&fontColor=ffffff&height=175&section=header&text=Hi!%20This%20is%20Alessandro%20Taddei’s%20profile.&fontSize=35&fontAlignY=30">
 
 ### Skills: 📚
 <div>
