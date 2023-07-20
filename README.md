@@ -1,6 +1,6 @@
-<img alt="intro" src="https://github.com/aletcm/aletcm/assets/74436963/5b133fb0-174c-4373-821c-0253468887a6" style="height: 200px;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b897ff&fontColor=dddddd&height=175&section=header&text=Olá!%20Este%20é%20o%20perfil%20de%20Alessandro%20Taddei!&fontSize=35&fontAlignY=32">
 
-## Olá! Este é o perfil de Alessandro Taddei! 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=800&size=30&pause=1000&color=29C8B6&center=true&multiline=true&width=900&height=75&lines=Sou+um+iniciante+apaixonado+por+programa%C3%A7%C3%A3o+e+tecnologia.;Descobrir+como+as+coisas+funcionam+%C3%A9+indescrit%C3%ADvel!" alt="Typing SVG"></a>
 
 ### Habilidades: 📚
 <div>
@@ -22,6 +22,3 @@
 ---
 ### Meus repositórios: 📂
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletcm&hide_progress=true)
-
----
-## Sou apaixonado por programação e tecnologia. A sensação de saber como as coisas funcionam é indescritível!
