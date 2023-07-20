@@ -21,6 +21,6 @@
 ### My repositories: 📂
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletcm&hide_progress=true)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=200&color=29C8B6&center=true&multiline=true&width=900&height=75&lines=I’m+beginner+programmer+and+tech+enthusiast.;Discover+how+things+work+is+amazing!" alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=300&center=true&vCenter=true&width=900&lines=I'm+a+beginner+programmer+and+tech+enthusiast.;Discover+how+things+work+is+amazing!" alt="Typing SVG"></a>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving">
