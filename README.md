@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b897ff&fontColor=ffffff&height=175&section=header&text=Hi!%20This%20is%20Alessandro%20Taddei’s%20profile.👋&fontSize=35&fontAlignY=30">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=300&center=true&vCenter=true&width=900&lines=I'm+a+beginner+programmer+and+tech+enthusiast.;Discover+how+things+work+is+amazing!" alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=300&center=true&vCenter=true&width=900&lines=I'm+a+beginner+programmer+and+tech+enthusiast.;Discover+how+things+work+is+amazing!" alt="Typing SVG"></a>
 
 ### Skills: 📚
 <div>
