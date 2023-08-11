@@ -21,6 +21,6 @@
 
 ---
 ### My repositories: 📂
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletcm&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletcm&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving">
