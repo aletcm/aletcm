@@ -16,9 +16,9 @@
 ---
 ### I’m currently learning: 📕
 <div style="display: flex;">
-    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" style="width: 10%; height: auto;"/>
-    <img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node" style="width: 10%; height: auto;"/>
-    <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title="MySQL" style="width: 10%; height: auto;"/>
+    <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" style="width: 10%; height: auto;"/>
+    <img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title="Node" style="width: 10%; height: auto;"/>
+    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" style="width: 10%; height: auto;"/>
 </div>
 
 ---
